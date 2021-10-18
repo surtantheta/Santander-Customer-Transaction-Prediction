@@ -18,7 +18,7 @@ In this project, we explore:
   </ul>
 </ol>
 
-A detailed report is also provided for the user comparing the approaches Random Forest and Logistic Regression.<br>
+A detailed report is also provided in this repo, comparing the approaches Random Forest and Logistic Regression.<br>
 <b>N.B. This project was part of my final year undergraduate dissertation.</b>
     
   
